@@ -1,0 +1,15 @@
+# 忽略 PyCharm 的 .idea 目录和模块配置
+.idea/
+*.iml
+
+# 忽略虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 数据文件（你不想上传的）
+*.h5
+*.tar.xz
